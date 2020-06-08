@@ -1,0 +1,47 @@
+[
+    {
+        "name": "rain/raintpl",
+        "version": "3.1.1",
+        "version_normalized": "3.1.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/feulf/raintpl3.git",
+            "reference": "edee683bf242f40cc75bee46a78759f6c1589dca"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/feulf/raintpl3/zipball/edee683bf242f40cc75bee46a78759f6c1589dca",
+            "reference": "edee683bf242f40cc75bee46a78759f6c1589dca",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "4.4.*"
+        },
+        "time": "2018-06-08T21:19:55+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Rain": "library/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Rain Community"
+            },
+            {
+                "name": "Federico Ulfo",
+                "email": "rainelemental@gmail.com"
+            }
+        ],
+        "description": "easy and fast template engine",
+        "homepage": "http://raintpl.com"
+    }
+]

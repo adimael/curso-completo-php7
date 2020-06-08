@@ -1,0 +1,16 @@
+{
+    "name": "hcodebrasil/composer",
+    "description": "Aula de PHP7 com composer.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "adimael",
+            "email": "adimaelbr@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+}
